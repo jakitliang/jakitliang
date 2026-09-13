@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jakit Liang 👋
+# Hi, I'm Jakit 👋
 
 ### Systems-minded developer building lightweight runtimes, Lua libraries, graphics tools, and cross-platform software.
 
