@@ -84,17 +84,17 @@ My repositories and experiments also cover the wider native graphics ecosystem, 
 <div align="center">
 
 <a href="https://github.com/jakitliang">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jakitliang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jakit's GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=jakitliang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jakit's GitHub stats" />
 </a>
 <a href="https://github.com/jakitliang?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakitliang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jakit's most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jakitliang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jakit's most used languages" />
 </a>
 
 <a href="https://github.com/jakitliang/lumen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jakitliang&repo=lumen&theme=tokyonight&hide_border=true" alt="Lumen repository card" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jakitliang&repo=lumen&theme=tokyonight&hide_border=true" alt="Lumen repository card" />
 </a>
 <a href="https://github.com/jakitliang/Light.lua">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jakitliang&repo=Light.lua&theme=tokyonight&hide_border=true" alt="Light.lua repository card" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jakitliang&repo=Light.lua&theme=tokyonight&hide_border=true" alt="Light.lua repository card" />
 </a>
 
 </div>
